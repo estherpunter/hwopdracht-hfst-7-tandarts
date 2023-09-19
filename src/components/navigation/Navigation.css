@@ -30,3 +30,11 @@ ul {
     justify-content: space-between;
     align-items: center;
 }
+
+.active-link {
+    text-decoration: white underline;
+}
+
+.default-link {
+    text-decoration: none;
+}
